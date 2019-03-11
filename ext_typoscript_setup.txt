@@ -14,6 +14,7 @@ config.tx_extbase {
 						tx_roqnewsevent_is_event.mapOnProperty = isEvent
 						tx_roqnewsevent_start.mapOnProperty = eventStart
 						tx_roqnewsevent_end.mapOnProperty = eventEnd
+						tx_roqnewsevent_location.mapOnProperty = eventLocation
 					}
 				}
 			}
